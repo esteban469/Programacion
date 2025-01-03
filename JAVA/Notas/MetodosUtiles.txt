@@ -1,0 +1,4 @@
+.toLowerCase(variable)	-------- Sirve para convertir todas las letras a minúsculas en una cadena
+.toUpperCase(variable)	-------- Sirve para convertir todas las letras a MAYUSCULAS en una cadena
+.equals(variable)	-------- Sirve para comparar cadenas sin ignorar espacios
+.replace("carácter a reemplazar", "carácter por el que vamos a reemplazar") -------- Permite reemplazar todas las apariciones de un carácter o una secuencia de caracteres en una cadena por otra secuencia especificada.
